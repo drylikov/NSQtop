@@ -1,4 +1,4 @@
-# nsqtop.
+# NSQtop.
 
  [NSQ](http://nsq.io/) "top" program, similar to nsq_stat for monitoring NSQD nodes from the terminal. The main difference is you do not have to specify the topic/channel, it displays all topics & channels.
 
@@ -7,5 +7,5 @@
  Via `go` or grab one of the [binaries](https://github.com/drylikov/nsqtop/releases).
 
 ```sh
-$ curl -sf https://gobinaries.com/drylikov/nsqtop | sh
+$ curl -sf https://gobinaries.com/drylikov/NSQtop | sh
 ```
